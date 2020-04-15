@@ -1,6 +1,6 @@
 # Natours-React-App
 
-This project was made with [ Udemy Advance CSS Course](https://github.com/jonasschmedtmann/advanced-css-course.git), converted to React.
+This is a demo project made with [ Udemy Advance CSS Course](https://github.com/jonasschmedtmann/advanced-css-course.git), converted to React.
 
 ## Installation
 
@@ -26,4 +26,4 @@ yarn build
 
 ### Practice
 
-[![Edit elastic-shirley-0whsd](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/react-typescript-apollo-starter-kit-d89kr)
+[![Edit elastic-shirley-0whsd](https://codesandbox.io/static/img/play-codesandbox.svg)]
