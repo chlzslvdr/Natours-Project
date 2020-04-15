@@ -1,6 +1,8 @@
-# Natours-React-App
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c044a934-0ebb-4ccb-9951-b8e728675a04/deploy-status)](https://app.netlify.com/sites/natours-react-project/deploys)
 
-This is a demo project made with [ Udemy Advance CSS Course](https://github.com/jonasschmedtmann/advanced-css-course.git), converted to React.
+# Natours-Project
+
+This is a [Demo Project](https://natours-react-project.netlify.com/) made with [ Udemy Advance CSS Course](https://github.com/jonasschmedtmann/advanced-css-course.git), converted to React.
 
 ## Installation
 
@@ -24,6 +26,3 @@ yarn start
 yarn build
 ```
 
-### Practice
-
-[![Edit elastic-shirley-0whsd](https://codesandbox.io/static/img/play-codesandbox.svg)]
