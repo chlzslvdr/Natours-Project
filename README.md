@@ -2,7 +2,7 @@
 
 # Natours-Project
 
-This is a [Demo Project](https://natours-react-project.netlify.com/) made with [ Udemy Advance CSS Course](https://github.com/jonasschmedtmann/advanced-css-course.git), converted to React.
+This is a [Demo Project](https://natours-react-project.netlify.app/) made with [ Udemy Advance CSS Course](https://github.com/jonasschmedtmann/advanced-css-course.git), converted to a React App.
 
 ## Installation
 
@@ -25,4 +25,3 @@ yarn start
 ```bash
 yarn build
 ```
-
