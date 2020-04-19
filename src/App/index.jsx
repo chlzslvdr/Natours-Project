@@ -1,11 +1,11 @@
 import React from 'react';
-import Header from '../components/Header';
+import Header from '../layouts/Header';
 import About from '../modules/About';
 import Features from '../modules/Features';
 import Tours from '../modules/Tours';
 import Stories from '../modules/Stories';
 import Book from '../modules/Book';
-import Footer from '../components/Footer';
+import Footer from '../layouts/Footer';
 
 const App = () => {
   return (
