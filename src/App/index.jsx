@@ -5,17 +5,19 @@ import Features from '../modules/Features';
 import Tours from '../modules/Tours';
 import Stories from '../modules/Stories';
 import Book from '../modules/Book';
+import Footer from '../components/Footer';
 
 const App = () => {
   return (
-    <section>
+    <>
       <Header />
       <About />
       <Features />
       <Tours />
       <Stories />
       <Book />
-    </section>
+      <Footer />
+    </>
   );
 };
 
