@@ -4,6 +4,7 @@ import About from '../modules/About';
 import Features from '../modules/Features';
 import Tours from '../modules/Tours';
 import Stories from '../modules/Stories';
+import Book from '../modules/Book';
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <Features />
       <Tours />
       <Stories />
+      <Book />
     </section>
   );
 };
