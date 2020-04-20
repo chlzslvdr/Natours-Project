@@ -1,4 +1,5 @@
 import React from 'react';
+import Navigation from '../layouts/Navigation';
 import Header from '../layouts/Header';
 import About from '../modules/About';
 import Features from '../modules/Features';
@@ -10,6 +11,7 @@ import Footer from '../layouts/Footer';
 const App = () => {
   return (
     <>
+      <Navigation />
       <Header />
       <About />
       <Features />
