@@ -2,7 +2,7 @@
 
 # Natours-Project
 
-This is a [Demo Project](https://natours-react-project.netlify.app/) made with [ Udemy Advance CSS and SCSS Course](https://github.com/jonasschmedtmann/advanced-css-course.git), converted to a React App.
+This is a [Demo Project](https://natours-react-project.netlify.app/) made with [ Udemy Advance CSS and SCSS Course](https://github.com/jonasschmedtmann/advanced-css-course), converted to a React App.
 
 ## Installation
 
