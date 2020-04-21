@@ -2,7 +2,7 @@ import React from 'react';
 
 const Tours = () => {
   return (
-    <section className="section-tours">
+    <section className="section-tours" id="section-tours">
       <div className="u-center-text u-margin-bottom-big">
         <h2 className="heading-secondary">Most Popular Tours</h2>
       </div>
@@ -33,7 +33,7 @@ const Tours = () => {
                   <p className="card__price-only">Only</p>
                   <p className="card__price-value">$297</p>
                 </div>
-                <a href="#" className="btn btn--white">
+                <a href="#popup" className="btn btn--white">
                   Book now!
                 </a>
               </div>
@@ -65,7 +65,7 @@ const Tours = () => {
                   <p className="card__price-only">Only</p>
                   <p className="card__price-value">$497</p>
                 </div>
-                <a href="#" className="btn btn--white">
+                <a href="#popup" className="btn btn--white">
                   Book now!
                 </a>
               </div>
@@ -97,7 +97,7 @@ const Tours = () => {
                   <p className="card__price-only">Only</p>
                   <p className="card__price-value">$897</p>
                 </div>
-                <a href="#" className="btn btn--white">
+                <a href="#popup" className="btn btn--white">
                   Book now!
                 </a>
               </div>

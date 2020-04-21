@@ -7,6 +7,7 @@ import Tours from '../modules/Tours';
 import Stories from '../modules/Stories';
 import Book from '../modules/Book';
 import Footer from '../layouts/Footer';
+import Popup from '../modules/Popup';
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
       <Stories />
       <Book />
       <Footer />
+      <Popup />
     </>
   );
 };
