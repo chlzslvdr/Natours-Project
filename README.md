@@ -25,3 +25,7 @@ yarn start
 ```bash
 yarn build
 ```
+
+### Resources
+
+http://codingheroes.io/resources/
