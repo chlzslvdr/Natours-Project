@@ -26,6 +26,29 @@ yarn start
 yarn build
 ```
 
+
+### Add Browser Supports
+
+[Autoprefixer](https://www.npmjs.com/package/autoprefixer) plugin to parse CSS and add vendor prefixes to CSS rules
+
+```bash
+npm run prefix:css
+```
+
+### Compress CSS
+Make a compressed file of your css
+
+```bash
+npm run compress:css
+```
+
+### Build CSS
+Make a compressed build version of your css
+
+```bash
+npm run build:css
+```
+
 ### Resources
 
-http://codingheroes.io/resources/
+http://codingheroes.io/resources
