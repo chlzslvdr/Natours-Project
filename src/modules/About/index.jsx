@@ -48,7 +48,7 @@ const About = () => {
               alt="Photo 1"
               src={NAT1_Large}
               srcSet={`${NAT1} 300w, ${NAT1_Large} 1000w`}
-              sizes="(max-width: 900px) 20vw, (max-width:600px) 30vw, 300px"
+              sizes="(max-width: 56.25em) 20vw, (max-width:27.5em) 30vw, 300px"
             />
 
             <img
@@ -56,7 +56,7 @@ const About = () => {
               alt="Photo 2"
               src={NAT2_Large}
               srcSet={`${NAT2} 300w, ${NAT2_Large} 1000w`}
-              sizes="(max-width: 900px) 20vw, (max-width:600px) 30vw, 300px"
+              sizes="(max-width: 56.25em) 20vw, (max-width:27.5em) 30vw, 300px"
             />
 
             <img
@@ -64,7 +64,7 @@ const About = () => {
               alt="Photo 3"
               src={NAT3_Large}
               srcSet={`${NAT3} 300w, ${NAT3_Large} 1000w`}
-              sizes="(max-width: 900px) 20vw, (max-width:600px) 30vw, 300px"
+              sizes="(max-width: 56.25em) 20vw, (max-width:27.5em) 30vw, 300px"
             />
           </div>
         </div>
