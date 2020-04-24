@@ -1,7 +1,10 @@
 import React from 'react';
-import NAT1 from '../../assets/img/nat-1-large.jpg';
-import NAT2 from '../../assets/img/nat-2-large.jpg';
-import NAT3 from '../../assets/img/nat-3-large.jpg';
+import NAT1_Large from '../../assets/img/nat-1-large.jpg';
+import NAT1 from '../../assets/img/nat-1.jpg';
+import NAT2_Large from '../../assets/img/nat-2-large.jpg';
+import NAT2 from '../../assets/img/nat-2.jpg';
+import NAT3_Large from '../../assets/img/nat-3-large.jpg';
+import NAT3 from '../../assets/img/nat-3.jpg';
 
 const About = () => {
   return (
@@ -41,19 +44,27 @@ const About = () => {
         <div className="col-1-of-2">
           <div className="composition">
             <img
-              src={NAT1}
-              alt="Photo 1"
               className="composition__photo composition__photo--p1"
+              alt="Photo 1"
+              src={NAT1_Large}
+              srcSet={`${NAT1} 300w, ${NAT1_Large} 1000w`}
+              sizes="(max-width: 900px) 20vw, (max-width:600px) 30vw, 300px"
             />
+
             <img
-              src={NAT2}
-              alt="Photo 2"
               className="composition__photo composition__photo--p2"
+              alt="Photo 2"
+              src={NAT2_Large}
+              srcSet={`${NAT2} 300w, ${NAT2_Large} 1000w`}
+              sizes="(max-width: 900px) 20vw, (max-width:600px) 30vw, 300px"
             />
+
             <img
-              src={NAT3}
-              alt="Photo 3"
               className="composition__photo composition__photo--p3"
+              alt="Photo 3"
+              src={NAT3_Large}
+              srcSet={`${NAT3} 300w, ${NAT3_Large} 1000w`}
+              sizes="(max-width: 900px) 20vw, (max-width:600px) 30vw, 300px"
             />
           </div>
         </div>

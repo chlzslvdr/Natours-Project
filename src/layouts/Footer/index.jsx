@@ -14,6 +14,7 @@ const Footer = () => {
             media="(max-width: 37.5em)"
           />
           <img
+            src={LOGO2}
             srcSet={`${LOGO1} 1x, ${LOGO2} 2x`}
             alt="Full logo"
             className="footer__logo"
@@ -59,7 +60,7 @@ const Footer = () => {
             <a
               href="https://github.com/chlzslvdr"
               target="_blank"
-              class="footer__link"
+              className="footer__link"
             >
               Chelzea Salvador
             </a>{' '}
@@ -67,7 +68,7 @@ const Footer = () => {
             <a
               href="https://github.com/jonasschmedtmann/advanced-css-course.git"
               target="_blank"
-              class="footer__link"
+              className="footer__link"
             >
               Advanced CSS and Sass
             </a>
