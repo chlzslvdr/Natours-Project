@@ -12,7 +12,7 @@ Clone and run yarn install to install the dependencies.
 yarn install
 ```
 
-### Start locally
+## Start locally
 
 To run the project locally, use the `start` command.
 
@@ -20,12 +20,11 @@ To run the project locally, use the `start` command.
 yarn start
 ```
 
-### Production
+## Production
 
 ```bash
 yarn build
 ```
-
 
 ### Add Browser Supports
 
@@ -49,6 +48,6 @@ Make a compressed build version of your css
 npm run build:css
 ```
 
-### Resources
+## Resources
 
 http://codingheroes.io/resources
