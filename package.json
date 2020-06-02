@@ -3,6 +3,12 @@
   "version": "0.0.1",
   "description": "Landing page for Natours Project",
   "private": true,
+    "repository": {
+    "type": "git",
+    "url": "git@github.com:chlzslvdr/Natours-Project.git"
+  },
+  "author": "Chelzea Salvador",
+  "license": "ISC",
   "dependencies": {
     "@testing-library/jest-dom": "4.2.4",
     "@testing-library/react": "9.3.2",
